@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FoolCoder
 - 👀 I’m interested in exploring and learning new tech 
-- 🌱 I’m currently learning react-native, javascript and typescript
+- 🌱 I’m currently learning react-native, nodejs, javascript and typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qazafi.sheikh121@gmail.com
 
